@@ -1,5 +1,4 @@
 # hello-world
-First repo ... hello world
 
 Hi Humans!
 
